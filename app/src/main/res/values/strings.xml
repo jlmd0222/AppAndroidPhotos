@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppAndroid</string>
+    <string name="error_message_default">Ocurrio un error al consultar los datos</string>
+    <string name="refresh_label">Cargando datos</string>
+</resources>
